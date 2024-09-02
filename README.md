@@ -17,3 +17,6 @@ Optimize energy production across 25 regions in a country, balancing renewable a
 
 5. **Discrete Models**
 - We will undertake a similar process but include discrete models, such as using binary variables to determine whether a particular energy source is used. This way, we will redefine the model by adapting the objective function and adding new constraints (e.g., limiting the maximum number of non-renewable energy types).
+
+6. **Interpretation and Conclusions**
+- The insights and conclusions are detailed in the .ipynb and .html files.
